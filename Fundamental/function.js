@@ -16,3 +16,11 @@ var total =first + second;
 
 console.log(total);
 console.log(first,second);
+
+
+function add(X,Y){
+    return X + Y;
+
+}
+var adding =add(10,20);
+console.log(adding);
